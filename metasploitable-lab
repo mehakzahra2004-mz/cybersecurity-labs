@@ -1,0 +1,19 @@
+# Metasploitable Penetration Testing Lab
+
+## Objective
+To practice penetration testing in a controlled lab environment.
+
+## Tools Used
+- Kali Linux
+- Metasploitable
+- Nmap
+- Metasploit
+
+## Tasks Performed
+- Basic scanning
+- Service enumeration
+- Vulnerability identification
+- Exploitation practice
+
+## Learning Outcome
+This project helped me understand practical penetration testing concepts and basic exploitation techniques.
