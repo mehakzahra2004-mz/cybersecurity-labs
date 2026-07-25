@@ -1,4 +1,4 @@
-The Vulnerability: Backdoor in vsftpd v2.3.4 triggers on a username ending in :).
+The Vulnerability: Backdoor in vsftpd v2.3.4 triggers on a username ending in ":)".
 
 The “Manual” Hack (When Metasploit fails):
 - Open connection: ftp <Target_IP>
