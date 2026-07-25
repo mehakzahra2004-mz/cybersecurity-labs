@@ -33,6 +33,28 @@ The generated alert was recorded under:
 
 This confirmed that Microsoft Defender alerts were being collected and displayed correctly in Wazuh.
 
+## Screenshots
+
+### Windows agent active
+
+![Windows agent active](./screenshots/01-windows-agent-active.png)
+
+### Defender event channel configuration
+
+![Defender event channel configuration](./screenshots/02-defender-event-channel-config.png)
+
+### Microsoft Defender EICAR detection
+
+![Microsoft Defender EICAR detection](./screenshots/03-defender-eicar-detection.png)
+
+### Defender alerts collected in Wazuh
+
+![Wazuh Defender alerts](./screenshots/04-wazuh-defender-alerts.png)
+
+### Defender alert details
+
+![Defender alert details](./screenshots/05-defender-alert-details.png)
+
 ## Skills Practiced
 - Wazuh agent deployment
 - Windows event-channel collection
