@@ -50,7 +50,7 @@ No MITRE ATT&CK technique was mapped to Wazuh Rule ID `62123`.
 
 ![MITRE ATT&CK fields](./screenshots/04-mitre-fields.png)
 
-## Skills Practised
+## Skills Practiced
 
 - Threat hunting
 - SIEM event filtering
