@@ -31,25 +31,25 @@ This confirmed that Wazuh File Integrity Monitoring was correctly detecting cont
 
 ## Screenshots
 
-### Windows agent active
+### Registry monitoring configuration
 
-![Windows agent active](./screenshots/01-windows-agent-active.png)
+![Registry monitoring configuration](./screenshots/01-registry-fim-config.png)
 
-### Defender event channel configuration
+### Test registry key creation
 
-![Defender event channel configuration](./screenshots/02-defender-event-channel-config.png)
+![Test registry key creation](./screenshots/02-registry-key-created.png)
 
-### Microsoft Defender EICAR detection
+### Registry value modification
 
-![Microsoft Defender EICAR detection](./screenshots/03-defender-eicar-detection.png)
+![Registry value modification](./screenshots/03-registry-value-modified.png)
 
-### Defender alerts collected in Wazuh
+### Registry events detected by Wazuh FIM
 
-![Wazuh Defender alerts](./screenshots/04-wazuh-defender-alerts.png)
+![Registry FIM events](./screenshots/04-registry-fim-events.png)
 
-### Defender alert details
+### Registry alert rule details
 
-![Defender alert details](./screenshots/05-defender-alert-details.png)
+![Registry rule details](./screenshots/05-registry-rule-details.png)
 
 ## Skills Practiced
 - Windows Registry monitoring
