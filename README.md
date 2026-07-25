@@ -6,6 +6,10 @@ I document what I learn as I go so I understand why something works, rather than
 
 ## What's here
 
+### SOC / SIEM — Wazuh
+
+Hands-on threat detection and threat hunting using Wazuh: integrating Windows Defender for real-time malware alerts, configuring File Integrity Monitoring on the Windows Registry, and using the Threat Hunting module to filter, investigate, and report on generated alerts (including checking MITRE ATT&CK coverage). Full write-up: SOC-Wazuh/wazuh-threat-detection-lab.md
+
 ### Metasploitable Lab — Full Attack Walkthrough
 
 Scanned, enumerated, and exploited Metasploitable2, a deliberately vulnerable virtual machine designed for security practice.
@@ -51,6 +55,7 @@ Learning how attacks work helps me understand the evidence they leave behind, su
 
 ## Tools Used Across These Labs
 
+- Wazuh
 - Kali Linux
 - Nmap
 - Metasploit Framework
