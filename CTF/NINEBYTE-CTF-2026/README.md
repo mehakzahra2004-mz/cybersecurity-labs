@@ -29,12 +29,3 @@ Through these challenges, I gained further practical experience in:
 - validating results carefully before submitting flags; and
 - documenting technical findings in a clear and reproducible manner.
 
-## Certificate
-
-My certificate of achievement is available in the following folder:
-
-[View Certificate](./Certificate/Mehak-Zahra-NINEBYTE-CTF-2026-Certificate.pdf)
-
-## Disclaimer
-
-These write-ups are shared for educational and portfolio purposes. Challenge flags may be omitted or redacted where required by the competition rules.
