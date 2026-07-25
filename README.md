@@ -52,6 +52,8 @@ Learning how attacks work helps me understand the evidence they leave behind, su
 - NINEBYTE CTF 2026 Certificate
 - TryHackMe Jr Penetration Tester path — in progress
 - Continuing to add new labs and CTF practice
+- Cybersecurity traineeship — ongoing
+- Completing practical Wazuh SIEM, endpoint monitoring, and threat-hunting tasks
 
 ## Tools Used Across These Labs
 
