@@ -3,7 +3,6 @@
 ## Overview
 
 In this task, I used Wazuh File Integrity Monitoring to monitor changes made to a Windows Registry location.
-
 A test registry key was created and modified to confirm that Wazuh could detect changes to both the registry value and its parent key.
 
 ## Monitored Registry Path
@@ -24,11 +23,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\SpectrazexLab
 
 Wazuh detected two related changes:
 
-**Rule ID 750:** Registry value integrity checksum changed
-**Rule ID 594:** Registry key integrity checksum changed
+- **Rule ID 750:** Registry value integrity checksum changed
+- **Rule ID 594:** Registry key integrity checksum changed
 
 The events included the monitored registry path, modification type, user, and timestamp.
-
 This confirmed that Wazuh File Integrity Monitoring was correctly detecting controlled registry changes on the Windows endpoint.
 
 ## Skills Practiced
